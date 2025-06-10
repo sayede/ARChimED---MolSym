@@ -11,7 +11,6 @@
 * Three learning modules: **Learning**, **Training**, **Testing**
 * Clean, intuitive, and engaging UI designed for mixed reality
 
---
 
 ## 📦 Installation
 
@@ -36,7 +35,6 @@
 4. Drag and drop the APK onto the SideQuest window or use the **Install APK** button
 5. Once installed, find the app in **Unknown Sources** in your headset
 
----
 
 ## 🎓 Modules Overview
 
@@ -52,12 +50,10 @@ Select from a curated library of 100+ molecules spanning all major point groups.
 
 Evaluate your understanding by attempting to identify the symmetry elements and point group of unknown molecules. Scores and achievements foster motivation and gamify the experience.
 
----
 
 ## 🧪 License
 
 This project is free for academic and educational uses. 
 
----
 
 **© ARChimED Project – Université d'Artois – 2025**
