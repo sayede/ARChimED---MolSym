@@ -1,6 +1,6 @@
 # ARChimEd - MolSym (Augmented Reality  for Chimie and Education – Molecular Symmetry)
 <table style="border: none;">
-  <tr style="border-top: 0px solid var(--borderColor-muted, var(--color-border-muted));">
+  <tr style="border-top: 0px solid var(--borderColor-muted, var(--color-border-muted))">
     <td style="width: 30%; vertical-align: top; border: 0px solid var(--borderColor-default, var(--color-border-default));" >
       <img src="https://github.com/user-attachments/assets/92bbee64-f221-4a7f-b24a-5d6c4a380d9d" alt="ARChimEd logo" width="100%">
     </td>
