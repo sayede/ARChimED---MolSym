@@ -1,11 +1,10 @@
-
-# ARChimEd - MolSym (Augmented Reality  for Chimie and Education â Molecular Symmetry)
+# ARChimEd - MolSym (Augmented Reality  for Chimie and Education – Molecular Symmetry)
 
 **ARChimEd - MolSym** is a cutting-edge mixed-reality educational application developed for the Meta Quest platform. It enables students, educators, and researchers to interactively explore **molecular symmetry** in three dimensions. Through immersive visuals, AI guidance, and gamified modules, users can deepen their understanding of symmetry operations and point groups.
 
 ---
 
-## ð Features
+## 🚀 Features
 
 * 3D visualization of molecules and their symmetry elements (axes, planes, center)
 * Real-time manipulation and interaction using hands
@@ -15,7 +14,7 @@
 
 ---
 
-## ðŠ Installation
+## 📦 Installation
 
 ### 1. Via Meta Quest App Lab (when available)
 
@@ -40,26 +39,26 @@
 
 ---
 
-## ð Modules Overview
+## 🎓 Modules Overview
 
-### ð Learning Module
+### 📘 Learning Module
 
 An interactive 3D course introducing the core concepts of molecular symmetry. Explore real molecular models and visualize the effects of symmetry operations such as rotations, reflections, and inversions.
 
-### ð§ª Training Module
+### 🧪 Training Module
 
 Select from a curated library of 100+ molecules spanning all major point groups. Practice identifying symmetry elements by interacting with the molecule. Feedback and hints help guide learning.
 
-### ð§  Testing Module
+### 🧠 Testing Module
 
 Evaluate your understanding by attempting to identify the symmetry elements and point group of unknown molecules. Scores and achievements foster motivation and gamify the experience.
 
 ---
 
-## ð§ª License
+## 🧪 License
 
 This project is free for academic and educational uses. 
 
 ---
 
-**Â© ARChimED Project â UniversitÃ© d'Artois â 2025**
+**© ARChimED Project – Université d'Artois – 2025**
