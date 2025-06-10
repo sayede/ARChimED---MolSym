@@ -11,7 +11,7 @@
 * Three learning modules: **Learning**, **Training**, **Testing**
 * Clean, intuitive, and engaging UI designed for mixed reality
 
----
+--
 
 ## 📦 Installation
 
