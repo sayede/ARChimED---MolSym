@@ -1,10 +1,15 @@
-# ARChimEd - MolSym (Augmented Reality  for Chimie and Education – Molecular Symmetry)
+# ARChimEd - MolSym (Augmented Reality for Chimie and Education – Molecular Symmetry)
+
 <div style="display: flex; align-items: flex-start;">
   <img src="https://github.com/user-attachments/assets/92bbee64-f221-4a7f-b24a-5d6c4a380d9d" alt="ARChimEd logo" width="200" style="margin-right: 20px;">
   <div style="text-align: justify;">
     <strong>ARChimEd - MolSym</strong> is a cutting-edge mixed-reality educational application developed for the Meta Quest platform. It enables students, educators, and researchers to interactively explore <strong>molecular symmetry</strong> in three dimensions. Through immersive visuals, AI guidance, and gamified modules, users can deepen their understanding of symmetry operations and point groups.
   </div>
 </div>
+
+> 📖 For detailed instructions and advanced usage of **ARChimEd - MolSym**, please refer to the [Wiki](../../wiki).
+
+---
 
 ## 🚀 Features
 
@@ -14,6 +19,7 @@
 * Three learning modules: **Learning**, **Training**, **Testing**
 * Clean, intuitive, and engaging UI designed for mixed reality
 
+---
 
 ## 📦 Installation
 
@@ -26,18 +32,19 @@
 
 **Prerequisites**:
 
-* Meta Quest headset + USB-C cable
-* Developer mode enabled on your Quest account
-* SideQuest app installed on your PC/Mac/Linux
+* Meta Quest headset + USB-C cable  
+* Developer mode enabled on your Quest account  
+* SideQuest app installed on your PC/Mac/Linux  
 
 **Steps**:
 
-1. Download the latest APK from the [Releases](https://github.com/username/ARCHIMED-MolSym/releases) section
-2. Connect your Meta Quest to your computer
-3. Open SideQuest and make sure your headset is detected
-4. Drag and drop the APK onto the SideQuest window or use the **Install APK** button
-5. Once installed, find the app in **Unknown Sources** in your headset
+1. Download the latest APK from the [Releases](https://github.com/username/ARCHIMED-MolSym/releases) section  
+2. Connect your Meta Quest to your computer  
+3. Open SideQuest and make sure your headset is detected  
+4. Drag and drop the APK onto the SideQuest window or use the **Install APK** button  
+5. Once installed, find the app in **Unknown Sources** in your headset  
 
+---
 
 ## 🎓 Modules Overview
 
@@ -53,10 +60,12 @@ Select from a curated library of 100+ molecules spanning all major point groups.
 
 Evaluate your understanding by attempting to identify the symmetry elements and point group of unknown molecules. Scores and achievements foster motivation and gamify the experience.
 
+---
 
 ## 🧪 License
 
-This project is free for academic and educational uses. 
+This project is free for academic and educational uses.  
 
+---
 
 **© ARChimED Project – Université d'Artois – 2025**
