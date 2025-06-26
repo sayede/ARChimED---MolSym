@@ -51,7 +51,13 @@
 ## 🤖 AI Avatar (Gaber) – Setup and Rationale
 
 ARChimEd – MolSym integrates an AI-powered virtual avatar to assist users in understanding concepts of molecular symmetry. The avatar, named Gaber in honor of the Persian alchemist <a href="https://en.wikipedia.org/wiki/Jabir_ibn_Hayyan" target="_blank">Jābir ibn Ḥayyān</a>, is designed to behave like a virtual chemistry professor. Gaber can answer your questions in real-time and guide you through the learning modules — but only if you choose to activate him.
-`✳️ Important:  You can use ARChimEd – MolSym fully without activating Gaber.` 
+
+.clipboard-copy {
+  display: none !important;
+}
+
+
+✳️ Important: The AI avatar is optional. You can use ARChimEd – MolSym fully without activating Gaber. He is available only when you want help or a deeper explanation.
 
 🧠 Why OpenAI API?
 
