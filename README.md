@@ -57,7 +57,7 @@ ARChimEd – MolSym integrates an AI-powered virtual avatar to assist users in u
 }
 
 
-✳️ Important: The AI avatar is optional. You can use ARChimEd – MolSym fully without activating Gaber. He is available only when you want help or a deeper explanation.
+> ✳️ Important: The AI avatar is optional. You can use ARChimEd – MolSym fully without activating Gaber. He is available only when you want help or a deeper explanation.
 
 🧠 Why OpenAI API?
 
