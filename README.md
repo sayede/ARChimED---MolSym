@@ -53,6 +53,19 @@
 ARChimEd – MolSym integrates an AI-powered virtual avatar to assist users in understanding concepts of molecular symmetry. The avatar, named Gaber in honor of the Persian alchemist <a href="https://en.wikipedia.org/wiki/Jabir_ibn_Hayyan" target="_blank">Jābir ibn Ḥayyān</a>, is designed to behave like a virtual chemistry professor. Gaber can answer your questions in real-time and guide you through the learning modules — but only if you choose to activate him.
 
     ✳️ Important:  You can use ARChimEd – MolSym fully without activating Gaber. 
+
+🧠 Why OpenAI API?
+
+We chose to integrate OpenAI's API instead of running a local large language model (LLM) like LLaMA for several reasons:
+
+    Cost Efficiency: Running a local LLM requires a powerful GPU-equipped computer, which is costly to purchase and maintain.
+
+    Energy Consumption: LLMs are energy-intensive. Using the OpenAI API avoids unnecessary electricity costs.
+
+    Ease of Use: The OpenAI API provides excellent performance, multi-language support (including French), and is easy to integrate.
+
+This solution provides a high-quality conversational experience at a significantly lower cost — both in terms of hardware and energy.
+
 ---
 
 ## 🎓 Modules Overview
