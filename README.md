@@ -7,7 +7,7 @@
   </div>
 </div>
 
-
+<br><br>
 
 > 📖 For detailed instructions and advanced usage of **ARChimEd - MolSym**, please refer to the [Wiki](../../wiki).
 
