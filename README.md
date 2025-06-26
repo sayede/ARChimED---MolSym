@@ -48,6 +48,11 @@
 4. Drag and drop the APK onto the SideQuest window or use the **Install APK** button  
 5. Once installed, find the app in **Unknown Sources** in your headset  
 
+## 🤖 AI Avatar (Gaber) – Setup and Rationale
+
+ARChimEd – MolSym integrates an AI-powered virtual avatar to assist users in understanding concepts of molecular symmetry. The avatar, named Gaber in honor of the Persian alchemist <a href="https://en.wikipedia.org/wiki/Jabir_ibn_Hayyan" target="_blank">Jābir ibn Ḥayyān</a>, is designed to behave like a virtual chemistry professor. Gaber can answer your questions in real-time and guide you through the learning modules — but only if you choose to activate him.
+
+    ✳️ Important:  You can use ARChimEd – MolSym fully without activating Gaber. 
 ---
 
 ## 🎓 Modules Overview
