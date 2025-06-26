@@ -63,9 +63,7 @@ We chose to integrate OpenAI's API instead of running a local large language mod
 * Energy Consumption: LLMs are energy-intensive. Using the OpenAI API avoids unnecessary electricity costs.
 * Ease of Use: The OpenAI API provides excellent performance, multi-language support (including French), and is easy to integrate.
 
-This solution provides a high-quality conversational experience at a significantly lower cost — both in terms of hardware and energy.
-
-For more details on activation, visit <a href="https://github.com/sayede/ARChimEd---MolSym/wiki/Installation-and-Setup" target="_blank">the Installation and Setup guide</a>.
+This solution provides a high-quality conversational experience at a significantly lower cost — both in terms of hardware and energy. For more details on activation, visit <a href="https://github.com/sayede/ARChimEd---MolSym/wiki/Installation-and-Setup" target="_blank">the Installation and Setup guide</a>.
 
 ---
 
