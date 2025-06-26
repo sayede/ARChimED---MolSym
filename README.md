@@ -19,6 +19,9 @@
 * Three learning modules: **Learning**, **Training**, **Testing**
 * Clean, intuitive, and engaging UI designed for mixed reality
 
+
+[![Regardez la démo]([https://img.youtube.com/vi/ID_DE_LA_VIDEO/0.jpg)](https://youtu.be/ID_DE_LA_VIDEO](https://www.youtube.com/watch?v=_RAdmGZ5mdU))
+
 ---
 
 ## 📦 Installation
