@@ -57,12 +57,9 @@ ARChimEd – MolSym integrates an AI-powered virtual avatar to assist users in u
 🧠 Why OpenAI API?
 
 We chose to integrate OpenAI's API instead of running a local large language model (LLM) like LLaMA for several reasons:
-
-    Cost Efficiency: Running a local LLM requires a powerful GPU-equipped computer, which is costly to purchase and maintain.
-
-    Energy Consumption: LLMs are energy-intensive. Using the OpenAI API avoids unnecessary electricity costs.
-
-    Ease of Use: The OpenAI API provides excellent performance, multi-language support (including French), and is easy to integrate.
+* Cost Efficiency: Running a local LLM requires a powerful GPU-equipped computer, which is costly to purchase and maintain.
+* Energy Consumption: LLMs are energy-intensive. Using the OpenAI API avoids unnecessary electricity costs.
+* Ease of Use: The OpenAI API provides excellent performance, multi-language support (including French), and is easy to integrate.
 
 This solution provides a high-quality conversational experience at a significantly lower cost — both in terms of hardware and energy.
 
