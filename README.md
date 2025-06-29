@@ -44,7 +44,7 @@
 
 **Steps**:
 
-1. Download the latest APK from the [Releases](https://github.com/username/ARCHIMED-MolSym/releases) section  
+1. Download the latest APK from the [Releases]([https://github.com/username/ARCHIMED-MolSym/releases](https://github.com/sayede/ARChimEd---MolSym/releases/tag/v1.0.0)) section  
 2. Connect your Meta Quest to your computer  
 3. Open SideQuest and make sure your headset is detected  
 4. Drag and drop the APK onto the SideQuest window or use the **Install APK** button  
